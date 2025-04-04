@@ -1,0 +1,114 @@
+
+
+
+New York
+CNN
+         — 
+    
+
+
+            As we all live more of our lives online, it’s important to understand who might have access to our conversations and internet searches – and to understand how to maintain privacy in an increasingly connected world.
+    
+
+            In the days since billionaire Elon Musk and his Department of Government Efficiency associates have blazed through various government agencies, journalists have encouraged federal government workers to contact them through end-to-end encrypted platforms, like the messaging app Signal.
+    
+
+            Signal is one of a number of relatively simple tools that can be used not only to help keep secure conversations with reporters, but also for communicating with colleagues when not discussing work projects, researching legal resources or even chatting with friends.
+    
+
+        Use personal devices and networks
+
+
+            It’s safe to assume that anything you do on a work computer or phone could be visible to  your employer, because they have the right to monitor usage of devices they own.
+    
+
+            “You want to think about who has access to the communications that you’re making if you’re worried that someone might try to retaliate you for having these discussions,” said Daniel Kahn Gillmor, a senior staff technologist for the ACLU’s Speech, Privacy, and Technology Project.
+    
+
+            With that in mind, it’s a good idea to use a personal device for personal conversations and Google searches.
+    
+
+            The same goes for using an employer’s Wi-Fi network, on which they may be able to connect the dots between employee communications. Save any griping about work for your home network or your personal phone plan.
+    
+
+            On work Wi-Fi, “they won’t necessarily see what tea you’re spilling, but they will see who you’re spilling it to,” Gillmor said.
+    
+
+        Signal
+
+
+            There are a number of tech platforms that advertise encryption services for privacy — including iMessage and WhatsApp — but data security experts largely agree that Signal is the gold standard.
+    
+
+            Signal looks like a regular messaging app for texting and making phone calls. But it’s owned by a non-profit, not a private company, and the app is end-to-end encrypted by default. That means that the content of a conversation is scrambled when it’s traveling between the sender and receiver, so no one except the parties to the conversation can see it.
+    
+
+
+
+
+
+
+
+
+
+Tesla CEO Elon Musk speaks at a rally for President Donald Trump at Madison Square Garden.
+
+Angela Weiss/AFP/Getty Images
+
+
+
+
+Related article
+They lived through Elon Musk’s Twitter takeover. Now, they have advice for federal government employees
+
+
+
+
+            “If you show up with a warrant or a subpoena (to Signal), they have almost nothing about you that they can hand over,” said Eva Galperin, director of cybersecurity at the Electronic Frontier Foundation. On non-encrypted messaging apps, an employer or law enforcement could potentially force a platform to hand over a user’s conversations via subpoena.
+    
+
+            End-to-end encryption itself isn’t unique among messaging apps, but certain apps that offer encryption, like WhatsApp, may still have access to non-encrypted contacts and other accounts you’ve messaged, whereas Signal’s builders can’t see that information, according to Gillmor.
+    
+
+            And whether you use Signal or WhatsApp, experts advise turning on the “disappearing messages” feature that allows users to auto-delete conversations after a set period of time — hours, or days, depending on what a user selects — so that the conversations might not be accessible even if someone else got their hands on a user’s phone.
+    
+
+        Tor browser
+
+
+            Many people are familiar with VPNs, or virtual private networks, which act kind of like a tunnel between your device and the internet that can mask where your internet traffic is coming from.
+    
+
+            VPNs can be a more private way of accessing the internet, but nevertheless, the VPN company could, in theory, be forced to hand over the information it has about your internet traffic.
+    
+
+            “When you use a VPN, the VPN company can see all your traffic, they see where you’re coming from and where you’re going. So, if somebody on the other end of the transaction sees an IP address that belongs to a VPN company, they can submit a subpoena to the VPN company,” Galperin said.
+    
+
+            The most secure option, security experts say, is to use Tor browser. It’s a browser that users can download just like Firefox or Safari, but that distributes internet traffic across a global network of different “nodes,” or computers, so that any one user’s traffic could not be accessed from a single access point. With Tor, the websites a user visits are also blocked from viewing that user’s IP address, which could allow them to be identified.
+    
+
+            If you’ve used Tor and “someone later sends a warrant to Google asking for all the searches that have been made from your home computer or your logged-in Google browser, they won’t see searches for ‘good journalist to leak to,’” Galperin said.
+    
+
+            Many news organizations also have SecureDrop folders, allowing users to share encrypted documents and communications anonymously when using Tor.
+    
+
+        Other best practices
+
+
+            Some companies have taken aggressive measures to identify employees who leak information, such as watermarking or tweaking emails so that different employees receive slightly different versions of the same message.
+    
+
+            For that reason, security experts encourage people to be cautious about sending exact copies or photos of emails or documents. And any documents printed out could include “printer dots,” invisible tracking codes that can indicate the time, date and location where something was printed.
+    
+
+            And keep in mind that violating a non-disclosure agreement or sharing confidential information could expose you to legal risk if you are identified.
+    
+
+            Still, Gillmor said it can be a good idea to identify private channels of communication with colleagues or friends.
+    
+
+            “Protecting our rights is a team sport,” Gillmor said. “Taking the time to figure out how to do some of these things and helping your friends figure out how to do these things, even if you never end up using them in more drastic ways … is still a positive thing.”
+    
+

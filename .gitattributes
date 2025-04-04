@@ -1,0 +1,1 @@
+models/mxbai-embed-large-v1-f16.gguf filter=lfs diff=lfs merge=lfs -text
