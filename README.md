@@ -43,7 +43,7 @@ pip install requests beautifulsoup4 langchain langchain-community langchain-olla
   - Ask news-related questions.
 ## Demo
 - Below is a screenshot of the chatbot in action, answering questions about recent news events
-![Chatbot demo screenshot](images_demo/chatbot-demo.png)
+![Chatbot demo screenshot](image_demo/question 1,2.png)
 ## Project Structure
 
 - `cnn_articles/` - Crawled CNN articles.
